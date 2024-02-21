@@ -1,0 +1,123 @@
+[
+  {
+    "model": "organizations.HolidayCalender",
+    "pk": 1,
+    "fields": {
+      "holiday_title": "Language Movement Day"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 2,
+    "fields": {
+      "holiday_title": "Sheikh Mujibur Rahman\\'s Birth Anniversary"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 3,
+    "fields": {
+      "holiday_title": "Independence Day of Bangladesh"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 4,
+    "fields": {
+      "holiday_title": "Mid-Sha'ban"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 5,
+    "fields": {
+      "holiday_title": "Bengali New Year (Pôhela Boishakh)"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 6,
+    "fields": {
+      "holiday_title": "Labour Day"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 7,
+    "fields": {
+      "holiday_title": "Jumu'atul-Wida"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 8,
+    "fields": {
+      "holiday_title": "Laylat al-Qadr"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 9,
+    "fields": {
+      "holiday_title": "Eid al-Fitr"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 10,
+    "fields": {
+      "holiday_title": "Nazrul Jayanti"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 1,
+    "fields": {
+      "holiday_title": "Vesak"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 11,
+    "fields": {
+      "holiday_title": "Eid al-Adha"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 12,
+    "fields": {
+      "holiday_title": "National Mourning Day"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 13,
+    "fields": {
+      "holiday_title": "Ashura"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 14,
+    "fields": {
+      "holiday_title": "Krishna Janmashtami"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 15,
+    "fields": {
+      "holiday_title": "Dussehra"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 16,
+    "fields": {
+      "holiday_title": "Vijayadashami"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 17,
+    "fields": {
+      "holiday_title": "Prophet's Birthday"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 18,
+    "fields": {
+      "holiday_title": "Victory day of Bangladesh"
+    }
+  },{
+    "model": "organizations.HolidayCalender",
+    "pk": 19,
+    "fields": {
+      "holiday_title": "Christmas Day"
+    }
+  }
+]

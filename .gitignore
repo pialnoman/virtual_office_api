@@ -1,0 +1,7 @@
+*.pyc
+*/migrations/*.py
+!*/migrations/__init__.py
+/.idea/
+/venv/
+/media/
+.idea 
